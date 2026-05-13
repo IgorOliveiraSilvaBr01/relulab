@@ -1,5 +1,9 @@
 # Documentação do Projeto: Biolab
 
+## Protótipo Figma
+
+[LandPage Biolab](https://www.figma.com/design/EmdwJYZy89NH8acTitarsj/LandPage-Biolab?node-id=0-1&t=z4ahznUzTa8OWcNx-1)
+
 ## Visão Geral
 
 O **Biolab** é uma landing page institucional desenvolvida para apresentar uma empresa do setor farmacêutico, destacando sua inovação, credibilidade e compromisso com a qualidade de vida. O projeto possui um design moderno e responsivo, com seções bem definidas que incluem um cabeçalho interativo, conteúdo multimídia, efeito parallax, estatísticas, avaliações de profissionais, formulário de contato e rodapé informativo.
